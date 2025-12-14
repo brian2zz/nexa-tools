@@ -3,7 +3,7 @@ package commands
 import (
 	"fmt"
 
-	"nexa-tools/internal/generator"
+	"github.com/brian2zz/nexa-tools/internal/generator"
 )
 
 func init() {

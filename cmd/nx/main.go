@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"nexa-tools/internal/commands"
+	"github.com/brian2zz/nexa-tools/internal/commands"
 )
 
 func main() {

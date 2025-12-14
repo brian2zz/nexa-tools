@@ -37,7 +37,7 @@ go version
 Install Nx menggunakan Go:
 
 ```bash
-go install github.com/<your-username>/nexa-tools/cmd/nx@latest
+go install github.com/brian2zz/nexa-tools/cmd/nx@latest
 ```
 
 Verifikasi instalasi:
