@@ -4,7 +4,7 @@ import "fmt"
 
 // Version adalah versi resmi nx
 // Update ini setiap release
-const Version = "0.1.0"
+const Version = "0.1.1"
 
 func init() {
 	Register("version", VersionCmd)
